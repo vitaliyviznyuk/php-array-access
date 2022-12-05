@@ -2,7 +2,7 @@
 
 ## php-array-access
 
-The PHP ArrayAccess interface examples.
+The PHP ArrayAccess interface usage examples.
 
 ## License
 
